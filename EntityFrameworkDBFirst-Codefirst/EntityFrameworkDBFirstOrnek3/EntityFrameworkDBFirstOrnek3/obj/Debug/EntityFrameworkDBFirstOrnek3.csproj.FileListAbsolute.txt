@@ -1,0 +1,51 @@
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFrameworkDBFirstOrnek3.exe.config
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFrameworkDBFirstOrnek3.exe
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFrameworkDBFirstOrnek3.pdb
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.csprojResolveAssemblyReference.cache
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.Form1.resources
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.Properties.Resources.resources
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.csproj.GenerateResource.Cache
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.exe
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.pdb
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.dll
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.xml
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFrameworkDBFirstOrnek3.exe.config
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFrameworkDBFirstOrnek3.exe
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFrameworkDBFirstOrnek3.pdb
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.csprojResolveAssemblyReference.cache
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.Form1.resources
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.Properties.Resources.resources
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.csproj.GenerateResource.Cache
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.exe
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.pdb
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\System.Data.4.0.0.0.Fakes.fakesconfig
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\EntityFrameworkDBFirstOrnek3.csprojFakesResolveAssemblyReference.cache
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\fakes.args
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.SqlServer.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.SqlServer.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\System.Data.4.0.0.0.Fakes.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\System.Data.4.0.0.0.Fakes.fakesconfig
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\System.Data.4.0.0.0.Fakes.pdb
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\System.Data.4.0.0.0.Fakes.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\f.ah
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\f.ch
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\f.cs
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\f.csproj
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\f.fakes
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\f.fakesconfig
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\f.snk
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\CoreCompileInputs.cache
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\f.csproj.FileListAbsolute.txt
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\System.Data.4.0.0.0.Fakes.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\System.Data.4.0.0.0.Fakes.pdb

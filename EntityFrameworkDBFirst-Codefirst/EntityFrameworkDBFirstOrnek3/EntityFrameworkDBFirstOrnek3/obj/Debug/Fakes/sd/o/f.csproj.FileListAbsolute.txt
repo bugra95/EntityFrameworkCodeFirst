@@ -1,0 +1,11 @@
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\System.Data.4.0.0.0.Fakes.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\System.Data.4.0.0.0.Fakes.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\System.Data.4.0.0.0.Fakes.pdb
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.SqlServer.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\b\EntityFramework.SqlServer.xml
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\System.Data.4.0.0.0.Fakes.dll
+C:\Users\Bugra\Desktop\bilge adam örnekler\25.07.2017\EntityFrameworkDBFirstOrnek3\EntityFrameworkDBFirstOrnek3\obj\Debug\Fakes\sd\o\System.Data.4.0.0.0.Fakes.pdb

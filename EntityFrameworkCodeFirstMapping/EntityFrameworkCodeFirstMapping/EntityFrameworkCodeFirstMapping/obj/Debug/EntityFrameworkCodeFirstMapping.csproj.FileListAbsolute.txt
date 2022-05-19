@@ -1,0 +1,28 @@
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFrameworkCodeFirstMapping.exe.config
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFrameworkCodeFirstMapping.exe
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFrameworkCodeFirstMapping.pdb
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.dll
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.xml
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.csprojResolveAssemblyReference.cache
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.Form1.resources
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.Properties.Resources.resources
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.csproj.GenerateResource.Cache
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.exe
+C:\Users\duygu.yenilmez\Documents\Visual Studio 2017\Projects\YMS 8115\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.pdb
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFrameworkCodeFirstMapping.exe.config
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFrameworkCodeFirstMapping.exe
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFrameworkCodeFirstMapping.pdb
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.dll
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.SqlServer.dll
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.xml
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\bin\Debug\EntityFramework.SqlServer.xml
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.csprojAssemblyReference.cache
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.Form1.resources
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.Properties.Resources.resources
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.csproj.GenerateResource.cache
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.csproj.CoreCompileInputs.cache
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.csproj.CopyComplete
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.exe
+F:\Buğra AYDIN YEDEK !!\28.07.2018 yedek\Desktop\Masaüstü\bilge adam örnekler\27.07.2017\EntityFrameworkCodeFirstMapping\EntityFrameworkCodeFirstMapping\obj\Debug\EntityFrameworkCodeFirstMapping.pdb
